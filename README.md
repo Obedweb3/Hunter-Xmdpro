@@ -23,7 +23,7 @@
 
 ### 🚀 Deploy Instantly
 
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY_TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Obedweb3/Hunter-Xmd1code/tree/main)
+[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY_TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Obedweb3/Hunter-Xmdpro/tree/main)
 [![Deploy to Railway](https://img.shields.io/badge/DEPLOY_TO-RAILWAY-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app)
 [![Deploy to Render](https://img.shields.io/badge/DEPLOY_TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
 [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY_TO-KOYEB-121212?style=for-the-badge&logo=koyeb)](https://koyeb.com)
